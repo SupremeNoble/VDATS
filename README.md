@@ -153,7 +153,7 @@ Artifacts (test results) can be downloaded from the run summary.
 ---
 
 ## 🧾 License
-This project is released under the MIT License.
+This project is released under the [MIT License](LICENSE).
 
 ---
 
